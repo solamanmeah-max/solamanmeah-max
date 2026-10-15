@@ -98,18 +98,14 @@ A collection of small Python utilities for file organization, report generation,
 
 ## 📊 GitHub Stats
 
-<!-- Third-party services can be slow or unavailable. Replace YOUR_USERNAME. -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages">
-</p>
+
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-bashir-meah-85779a441/recent-activity/)
+- 📧 Email:solaman.meah@gmail.com
+- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://pixelfancy-canvas.lovable.app/)
 
 <p align="center"><i>"If you do it twice, automate it."</i></p>
