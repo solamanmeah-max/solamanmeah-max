@@ -1,4 +1,103 @@
-<!--
+# Muhammad Bashir Meah — AI Automation Portfolio
+
+A single-page portfolio website for **Muhammad Bashir Meah**, an AI Automation Specialist and n8n Workflow Builder based in Chattogram, Bangladesh.
+
+🔗 **Live site:** https://pixelfancy-canvas.lovable.app/
+
+---
+
+## Overview
+
+The site presents Bashir's services, automation case studies, skills, and credentials, with an interactive "Workflow Lab" that shows how a customer message flows through an automated AI pipeline. Visitors can reach out through a project inquiry form.
+
+## Sections
+
+| Section | Description |
+|---|---|
+| **Home** | Hero with headline, call-to-action buttons, and an animated `inquiry_triage` workflow preview |
+| **About** | Background, focus areas, and four highlights: AI Automation, AI Agents, n8n Workflows, API Integration |
+| **Services** | Six service cards (expandable) |
+| **Projects** | Four automation case studies with workflow previews |
+| **Workflow Lab** | Interactive, clickable demo of a customer message moving through an automated workflow |
+| **Why Automate?** | Save time, respond faster, reduce errors, scale operations |
+| **Skills** | Tools and capabilities grouped by category |
+| **Process** | Understand → Design → Build → Optimize |
+| **Certifications** | Education and professional credentials |
+| **Contact** | Project inquiry form and contact details |
+
+## Services
+
+- **AI Automation** — AI-powered workflows for repetitive business processes
+- **n8n Workflow Automation** — triggers, conditions, APIs, error handling
+- **AI Customer Support** — message classification, AI-drafted replies, human handoff
+- **Lead Qualification** — capture, scoring, and smart routing
+- **API & Webhook Integration** — REST APIs, webhooks, HTTP requests, JSON mapping
+- **Data Automation** — deduplication, validation, standardization
+
+## Featured Projects
+
+1. **AI Course Inquiry Auto-Triage** — Webhook → AI analysis → intent classification → lead scoring → language detection → Google Sheets → Slack → human escalation
+2. **AI Lead & Customer Inquiry Automation** — lead form, AI message analysis, auto response, sheet logging, team alerts, escalation
+3. **Customer Data Cleaning Automation** — empty row detection, duplicate removal, phone/email validation, date normalization in Google Sheets
+4. **Webhook & API Automation** — webhooks, HTTP requests, REST APIs, JSON processing, automated responses
+
+## Skills & Tech
+
+- **AI & Automation:** AI Agents, Generative AI, Prompt Engineering, Workflow Design, Business Process Automation
+- **n8n & Integration:** n8n, Webhooks, REST APIs, HTTP Requests, JSON, Google Sheets, Slack
+- **Business Automation:** Lead Qualification, Customer Inquiry Automation, AI Customer Support, Data Processing, Human Escalation
+- **IT:** Microsoft System Administration, Technical Troubleshooting, Process Optimization
+
+## Credentials
+
+- Master AI Automation & Build AI Agents — Ostad
+- Microsoft Certified System Administrator (MCSA) / MCP — Microsoft
+- Diploma in Computer Science
+- Master of Commerce (M.Com)
+
+## Built With
+
+- [Lovable](https://lovable.dev) — AI-assisted site builder and hosting
+
+## Contact
+
+- 📍 Chattogram, Bangladesh
+- 📧 bashirannb@gmail.com
+- 📞 +880 1912 839106
+- LinkedIn and GitHub links: coming soon
+
+## Local Development
+
+If you export or sync this project to GitHub from Lovable:
+
+```bash
+# Clone the repository
+git clone <YOUR_REPO_URL>
+cd <PROJECT_FOLDER>
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+> Adjust the commands above to match your project's actual package manager and scripts.
+
+## Deployment
+
+The site is published through Lovable at `pixelfancy-canvas.lovable.app`. To update it, edit the project in Lovable and click **Publish**. A custom domain can be connected from the project settings.
+
+## To-Do
+
+- [ ] Add LinkedIn profile link
+- [ ] Add GitHub / portfolio link
+- [ ] Add downloadable workflow screenshots or n8n JSON examples
+- [ ] Connect the contact form to a backend or n8n webhook
+
+## License
+
+© 2026 Muhammad Bashir Meah. All rights reserved.<!--
   DEMO README: every project, skill level, link and learning goal below is sample data.
   Replace YOUR_USERNAME and anything marked [DEMO] with your real information.
   Delete this comment before publishing.
