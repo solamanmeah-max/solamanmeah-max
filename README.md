@@ -151,47 +151,6 @@ I'm an automation engineer with **1 year of hands-on experience** in test automa
 
 ## 🚀 Featured Projects
 
-> All entries below are sample projects. Replace them with your real repositories.
-
-### 1. [web-ui-test-framework](https://github.com/YOUR_USERNAME/web-ui-test-framework) `[DEMO]`
-A Selenium + Pytest framework using the Page Object Model for an e-commerce demo site.
-- **Problem:** Manual regression checks were slow and inconsistent.
-- **Highlights:** Reusable page objects, data-driven tests, automatic screenshots on failure, Allure reports.
-- **Stack:** Python, Selenium, Pytest, Allure
-
-### 2. [api-automation-suite](https://github.com/YOUR_USERNAME/api-automation-suite) `[DEMO]`
-Automated REST API tests covering authentication, CRUD operations, and response schema validation.
-- **Problem:** API changes could break clients without early warning.
-- **Highlights:** Reusable request helpers, JSON schema checks, environment-based configuration.
-- **Stack:** Python, Requests, Pytest, JSON Schema
-
-### 3. [ci-test-pipeline](https://github.com/YOUR_USERNAME/ci-test-pipeline) `[DEMO]`
-A GitHub Actions workflow that runs the test suite on every pull request and publishes the report.
-- **Problem:** Tests only ran when someone remembered to run them.
-- **Highlights:** Automated runs on push/PR, dependency caching, uploaded test reports.
-- **Stack:** GitHub Actions, Pytest, Docker
-
-### 4. [workflow-automation-scripts](https://github.com/YOUR_USERNAME/workflow-automation-scripts) `[DEMO]`
-A collection of small Python utilities for file organization, report generation, and data cleanup.
-- **Stack:** Python, Pandas, OpenPyXL
-
----
-
-## 💼 Experience `[DEMO — replace with your real role]`
-
-**Junior Automation Engineer** — Company Name *(Year – Present)*
-- Wrote and maintained automated UI and API tests for core product features.
-- Reported and tracked defects found through automated runs.
-- Collaborated with developers and QA to improve test coverage.
-
----
-
-## 🌱 Currently Exploring `[DEMO]`
-
-- Running tests in Docker containers
-- Improving CI pipelines with GitHub Actions
-- Performance testing with k6
-- AI-assisted test generation
 
 ---
 
