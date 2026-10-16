@@ -104,7 +104,7 @@ A collection of small Python utilities for file organization, report generation,
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-bashir-meah-85779a441/recent-activity/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-bashir-meah-85779a441/?isSelfProfile=true)
 - 📧 Email:solaman.meah@gmail.com
 - 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://pixelfancy-canvas.lovable.app/)
 
